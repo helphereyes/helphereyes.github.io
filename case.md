@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "CASE"
-description: "Medical Records"
+title: "Medical Case History"
+description: ""
 header-img: "img/orange.jpg"
 ---
 
